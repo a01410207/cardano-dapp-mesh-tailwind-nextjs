@@ -70,9 +70,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 - [![Next][next.js]][next-url]
 - [![React][react.js]][react-url]
-- [![Tailwind][tailwindcss]][tailwind-url]
-- [![Bootstrap][bootstrap.com]][bootstrap-url]
-- [![JQuery][jquery.com]][jquery-url]
+- [[tailwindcss]][tailwind-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
